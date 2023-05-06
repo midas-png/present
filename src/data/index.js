@@ -1,34 +1,19 @@
-export const REASONS = [
-    `
-        velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat 
-        quo voluptas nulla pariatur?" "Sed ut perspiciatis unde omnis iste natus error 
-        sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa 
-        quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.`,
-    `
-        Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-        exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea 
-        quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.`,
-    `
-        Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-        accusantium doloremque laudantium, totam rem aperiam, eaque ipsa 
-        quae ab illo inventore veritatis et quasi architecto beatae vitae 
-        dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit 
-        aspernatur aut odit aut fugit, sed quia consequuntur magni dolores 
-        sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa 
-        quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.`,
-    `
-        exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea 
-        commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate 
-        velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat 
-        quo voluptas nulla pariatur?" "Sed ut perspiciatis unde omnis iste natus error 
-        sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa 
-        quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.`,
-    `
-        Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-        quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.`,
-    `
-        Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-        accusantium doloremque laudantium, totam rem aperiam, eaque ipsa 
-        dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit 
-        quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.`,
-];
+export const REASONS = ['Ты всегда умеешь и можешь поддержать в трудные моменты', 'Ты умна и образована', 'Твоя неотразимая улыбка', 
+'Ты заботишься о своем здоровье (И о моем тоже<3)', 'Ты красивая и привлекательная', 'Ты умеешь слушать и понимать', 'Ты добрая и отзывчивая',
+'Ты по делу красиво бубукаешь', 'Ты делаешь шикарный массаж', 'Ты постоянно саморазвиваешься', 'Ты всегда веришь в меня и мои силы', 
+'Ты умеешь погружаться в работу и достигать своих целей', 'Ты любишь котиков, а они тебя', 'Ты умеешь учиться на своих ошибках', 
+'Ты переживаешь за меня', 'Ты работаешь над нашим совместным будущем (как и я!)', 'Ты умеешь давать хорошие советы и решать проблемы', 
+'Ты кусюкаешься', 'Ты умеешь находить компромиссы', 'Ты и умеешь отстаивать свое мнение', 'Ты уважаешь мое мнение и чувства', 
+'Ты умеешь управлять своим временем', 'Ты даешь мне чувство комфорта где бы мы ни были', 'Ты помогаешь мне в решении трудных проблем', 
+'Ты честная и откровенная', 'Ты внимательная и заботливая', 'Ты умеешь проявлять инициативу', 'Ты уважаешь мои интересы', 'Ты романтичная', 
+'Ты зажигательная', 'Ты умеешь проявлять сочувствие', 'Ты умеешь наслаждаться жизнью', 'Ты проявляешь заботу о животных и окружающей среде', 
+'Ты умеешь решать конфликты', 'Ты тактичная', 'Ты умеешь быть организованной и пунктуальной', 'Ты иногда немного душнюлькина<3', 
+'Ты умеешь проявлять терпение и выдержку', 'Ты веселая забавнушка', 'Ты предлагаешь и смотришь отличное кино', 'Ты любишь ту же шаверму, что и я',
+'Ты умеешь провлять настойчивость и смелость', 'Ты искренняя', 'У тебя отличное чувство юмора', 'Ты эрудированная', 'Ты советуешь прекрасные книги', 
+'Ты заботишься о своей семье', 'Ты уважаешь моих родителей', 'Ты умеешь проявлять творческий подход и фантазию', 'У тебя прекрасная улыбка и глаза', 
+'Ты чуткая и внимательная', 'Ты стильная', 'Ты знаешь кому можно доверять и верить', 'Ты душевная и эмоциональная', 'Ты внимательная к моим словам',
+'Ты прекрасно рисуешь', 'Ты делаешь мою жизнь ярче', 'Ты всегда готова обсудить проблемы и искать решение вместе', 'Ты сохраняешь свою индивидуальность', 
+'Ты открыта к новым нашим возможностям', 'Ты умеешь создавать атмосферу уюта и романтики', 'Ты не боишься показывать свои эмоции', 
+'Ты умеешь хранить секреты', 'Ты умеешь удивлять и вдохновлять меня', 'Ты умеешь расставлять приоритеты', 'Ты умеешь мотивировать', 
+'Ты умеешь радоваться мелким вещам', 'Ты умеешь находить и видеть красоту, радость', 'Ты умеешь находить в себе силы для решения проблем',
+'Ты веришь в нас и наше будущее', 'Ты солнышко!'];

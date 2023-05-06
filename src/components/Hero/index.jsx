@@ -6,63 +6,15 @@ export const Hero = () => {
         <HeroWrapper>
             <Title>Для солнышка</Title>
             <LetterWrapper>
-                "Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-                accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-                quae ab illo inventore veritatis et quasi architecto beatae
-                vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia
-                voluptas sit aspernatur aut odit aut fugit, sed quia
-                consequuntur magni dolores eos qui ratione voluptatem sequi
-                nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor
-                sit amet, consectetur, adipisci velit, sed quia non numquam eius
-                modi tempora incidunt ut labore et dolore magnam aliquam quaerat
-                voluptatem. Ut enim ad minima veniam, quis nostrum
-                exercitationem ullam corporis suscipit laboriosam, nisi ut
-                aliquid ex ea commodi consequatur? Quis autem vel eum iure
-                reprehenderit qui in ea voluptate velit esse quam nihil
-                molestiae consequatur, vel illum qui dolorem eum fugiat quo
-                voluptas nulla pariatur?" "Sed ut perspiciatis unde omnis iste
-                natus error sit voluptatem accusantium doloremque laudantium,
-                totam rem aperiam, eaque ipsa quae ab illo inventore veritatis
-                et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim
-                ipsam voluptatem quia voluptas sit aspernatur aut odit aut
-                fugit, sed quia consequuntur magni dolores eos qui ratione
-                voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-                ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia
-                non numquam eius modi tempora incidunt ut labore et dolore
-                magnam aliquam quaerat voluptatem. Ut enim ad minima veniam,
-                quis nostrum exercitationem ullam corporis suscipit laboriosam,
-                nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum
-                iure reprehenderit qui in ea voluptate velit esse quam nihil
-                molestiae consequatur, vel illum qui dolorem eum fugiat quo
-                voluptas nulla pariatur?" "Sed ut perspiciatis unde omnis iste
-                natus error sit voluptatem accusantium doloremque laudantium,
-                totam rem aperiam, eaque ipsa quae ab illo inventore veritatis
-                et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim
-                ipsam voluptatem quia voluptas sit aspernatur aut odit aut
-                fugit, sed quia consequuntur magni dolores eos qui ratione
-                voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-                ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia
-                non numquam eius modi tempora incidunt ut labore et dolore
-                magnam aliquam quaerat voluptatem. Ut enim ad minima veniam,
-                quis nostrum exercitationem ullam corporis suscipit laboriosam,
-                nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum
-                iure reprehenderit qui in ea voluptate velit esse quam nihil
-                molestiae consequatur, vel illum qui dolorem eum fugiat quo
-                voluptas nulla pariatur?" "Sed ut perspiciatis unde omnis iste
-                natus error sit voluptatem accusantium doloremque laudantium,
-                totam rem aperiam, eaque ipsa quae ab illo inventore veritatis
-                et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim
-                ipsam voluptatem quia voluptas sit aspernatur aut odit aut
-                fugit, sed quia consequuntur magni dolores eos qui ratione
-                voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-                ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia
-                non numquam eius modi tempora incidunt ut labore et dolore
-                magnam aliquam quaerat voluptatem. Ut enim ad minima veniam,
-                quis nostrum exercitationem ullam corporis suscipit laboriosam,
-                nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum
-                iure reprehenderit qui in ea voluptate velit esse quam nihil
-                molestiae consequatur, vel illum qui dolorem eum fugiat quo
-                voluptas nulla pariatur?"
+                Зайка, с Днем рождения! Я безумно рад, что ты у меня есть и безумно рад возможности дарить тебе счастье
+                и любовь. С каждым годом я все больше радуюсь тому, что мы все ближе к достижению наших целей, и я верю и знаю,
+                что у нас все получится. Ты делаешь не только меня, но и всех людей вокруг себя чувствовать себя счастливее.
+                Я до сих пор не понимаю за какие заслуги я смог тебя найти. Не важно, радуюсь я или прохожу трудности, 
+                я счастлив что ты всегда рядом со мной. Ты создаешь прекрасную уютную атмосферу, в которой я хочу быть вечно.
+                Я надеюсь, что смогу устроить отличный праздник, ты этого заслуживаешь больше, чем в свое время Ди Каприо оскар.
+                
+                Эта открытка - один из нескольких подарков. Он посвящен твоим качествам и причинам, по которым я тебя люблю
+                и которые я очень ценю. Наслаждайся днем. Люблю тебя!
             </LetterWrapper>
             <Button to='/present/reason/1'>Что за кнопка?</Button>
         </HeroWrapper>
