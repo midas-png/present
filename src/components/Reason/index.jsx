@@ -15,7 +15,7 @@ export const Reason = () => {
 
     return (
         <ComponentWrapper>
-            {Number(id) === 1 && <Title>Здесь описана лишь малая часть причин почему ты такой прекрасный человек</Title>}
+            <Title>Причина №{id}</Title>
             <ReasonWrapper>{reason}</ReasonWrapper>
             <ButtonsWrapper>
                 {Number(id) !== 1 && (
